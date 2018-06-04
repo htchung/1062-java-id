@@ -1,2 +1,5 @@
 # 1062-java-id
-Adding collabrator -- htctkucs
+
+Notes:
+* Adding collabrator -- htctkucs
+
